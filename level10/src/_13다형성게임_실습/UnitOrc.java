@@ -1,6 +1,6 @@
 package _13다형성게임_실습;
 
-public class UnitOrc  extends Unit {
+public class UnitOrc extends Unit {
 	UnitOrc() {
 		name = "오크";
 	}
